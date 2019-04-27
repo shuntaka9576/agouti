@@ -3,7 +3,7 @@ package integration_test
 import (
 	. "github.com/onsi/ginkgo"
 
-	"github.com/sclevine/agouti"
+	"github.com/shuntaka9576/agouti"
 )
 
 var _ = Describe("integration tests", func() {

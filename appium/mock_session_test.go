@@ -1,8 +1,8 @@
 package appium_test
 
 import (
-	"github.com/sclevine/agouti/api"
-	"github.com/sclevine/agouti/api/mobile"
+	"github.com/shuntaka9576/agouti/api"
+	"github.com/shuntaka9576/agouti/api/mobile"
 )
 
 type mockMobileSession struct {

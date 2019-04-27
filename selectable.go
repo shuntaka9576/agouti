@@ -1,9 +1,9 @@
 package agouti
 
 import (
-	"github.com/sclevine/agouti/api"
-	"github.com/sclevine/agouti/internal/element"
-	"github.com/sclevine/agouti/internal/target"
+	"github.com/shuntaka9576/agouti/api"
+	"github.com/shuntaka9576/agouti/internal/element"
+	"github.com/shuntaka9576/agouti/internal/target"
 )
 
 type Selectors interface {
